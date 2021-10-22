@@ -5,6 +5,8 @@
   background-color: #e6f2ff;
   width: 90px;
   padding: 10px 0;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .q6__align-box {
@@ -13,11 +15,6 @@
 
 .q6__large-box .q6__text {
   display: inline-block;
-}
-
-.q6__text {
-  margin: 0 auto;
-  text-align: center;
 }
 
 .q6-2__content {
